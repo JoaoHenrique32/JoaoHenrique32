@@ -5,11 +5,11 @@
 **Aspiring Data Engineer & AI Developer** · Python · PySpark · Data Pipelines · GenAI · IoT
 Building data-driven systems — from sensors and APIs to pipelines, dashboards and AI agents.
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-henrique526b11278)
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoHenrique32)
 
-🟢 **Actively looking for junior / internship opportunities in Data Engineering and AI**
+🟢 **Actively looking for internship opportunities in Data Engineering and AI**
 
 </div>
 
@@ -41,7 +41,6 @@ My goal is to build a career in **Data Engineering** and **Artificial Intelligen
 
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square&logo=delta&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
@@ -143,7 +142,7 @@ Authentication API connected to a database, containerized with Docker Compose.
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoHenrique32&show_icons=true&theme=github_dark&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHenrique32&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
