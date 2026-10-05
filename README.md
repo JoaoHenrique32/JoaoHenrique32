@@ -1,7 +1,7 @@
+
+# 👨‍💻 João Henrique
+
 <div align="center">
-
-# Hi, I'm João Henrique 👋
-
 **Aspiring Data Engineer & AI Developer** · Python · PySpark · Data Pipelines · GenAI · IoT
 Building data-driven systems — from sensors and APIs to pipelines, dashboards and AI agents.
 
